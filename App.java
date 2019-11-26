@@ -1,4 +1,4 @@
-package ru.tinkoff.invest.openapi.example;
+package terdm.example;
 
 import com.workday.insights.matrix.Forecast;
 import oracle.jdbc.internal.OracleTypes;
